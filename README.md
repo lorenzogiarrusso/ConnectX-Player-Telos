@@ -23,7 +23,7 @@ CXPlayerTester application:
 
 - Output score only:
 
-		java -cp ".." connectx.CXPlayerTester 6 7 4 connectx.Telos.Telos connectx.L1.L1`
+		java -cp ".." connectx.CXPlayerTester 6 7 4 connectx.Telos.Telos connectx.L1.L1
 
 
 - Verbose output
